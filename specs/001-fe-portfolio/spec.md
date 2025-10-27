@@ -35,7 +35,7 @@ A peer engineer or technical interviewer needs to evaluate the candidate's techn
 
 **Acceptance Scenarios**:
 
-1. **Given** an engineer visits a case study, **When** they reach the "Technical Approach" section, **Then** they see architecture diagrams, technology stack details, and specific patterns/libraries used
+1. **Given** an engineer visits a case study, **When** they reach the "Technical Approach" section, **Then** they see architecture diagrams, technology stack details, and clear explanations of the technical approaches and decisions made
 2. **Given** an engineer is reading about technical decisions, **When** they look for rationale, **Then** they find explanations of why certain technologies/approaches were chosen and what alternatives were considered
 3. **Given** an engineer wants to see measurable outcomes, **When** they reach the Impact section, **Then** they see quantified metrics: performance improvements (e.g., LCP reduced from 4.2s to 1.8s), conversion lifts, or user satisfaction scores
 4. **Given** an engineer visits the Side-Project Labs section, **When** they browse projects, **Then** each project card shows: what was built, what was learned, and links to live demo or source code
