@@ -279,7 +279,7 @@ This specification aligns with the project constitution as follows:
 
 ### Principle 1: Code Quality & Type Safety
 
-- **Alignment**: Spec requires no implementation details in this phase, but planning and implementation will enforce TypeScript strict mode, ESLint/Prettier checks, and Conventional Commits as defined in constitution.
+- **Alignment**: Spec requires no implementation details in this phase, but planning and implementation will enforce strict type safety, automated code quality checks, and standardized commit practices as defined in the constitution.
 - **Verification**: CI quality gates (FR-046 to FR-054 implicitly rely on linting/type checks) will catch violations before merge.
 
 ### Principle 2: Testing Standards & Accessibility
