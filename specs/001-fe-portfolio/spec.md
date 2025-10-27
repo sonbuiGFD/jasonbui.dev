@@ -1,4 +1,4 @@
-# Feature Specification: FE Engineer Portfolio (Next.js + Headless CMS + CDN)
+# Feature Specification: Portfolio Website
 
 **Feature Branch**: `001-fe-portfolio`  
 **Created**: October 28, 2025  
