@@ -219,7 +219,7 @@ A content author (the portfolio owner) needs to manage content through editorial
 - **FR-059**: Site MUST define caching headers: public, max-age for static pages; stale-while-revalidate for ISR pages
 - **FR-060**: Third-party scripts MUST be lazy-loaded when non-critical (e.g., analytics after page interactive)
 - **FR-061**: Site MUST use `preconnect` for CMS and CDN origins
-- **FR-062**: Fonts MUST be optimized using `next/font` with subsetting and optimal display strategies
+- **FR-062**: Fonts MUST be optimized with subsetting and optimal display strategies to ensure fast loading and good user experience
 
 #### Observability & Telemetry
 
