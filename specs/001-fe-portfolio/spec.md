@@ -110,7 +110,7 @@ A content author (the portfolio owner) needs to manage content through editorial
 1. **Given** an author creates a new blog post in the CMS with status "Draft," **When** the production site rebuilds, **Then** the draft post does NOT appear in blog lists or be accessible via direct URL
 2. **Given** an author changes a post status from "Draft" to "Published," **When** the CMS webhook fires, **Then** the site revalidates within 60 seconds and the post appears in blog lists and search results
 3. **Given** an author updates a published case study, **When** they save changes in the CMS, **Then** ISR revalidation triggers and changes appear on the site within 60 seconds without full rebuild
-4. **Given** an author wants to preview draft content, **When** they use the CMS preview feature, **Then** they see a preview URL that renders draft content (using Next.js draft mode) without affecting production
+4. **Given** an author wants to preview draft content, **When** they use the CMS preview feature, **Then** they see a preview URL that renders draft content without affecting production
 5. **Given** an author archives old content, **When** they change status to "Archived" in CMS, **Then** the content is removed from public lists but remains accessible via direct URL with a "This content is archived" notice
 
 ---
